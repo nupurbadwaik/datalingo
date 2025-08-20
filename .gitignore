@@ -1,3 +1,7 @@
 target/
 .env
 node_modules/ echo target/ echo .env
+# Ignore large assets
+Frontend/src/assets/chatbot.gif
+Frontend/src/assets/ai2.jpg
+Frontend/src/assets/ai.jpg
